@@ -3,8 +3,8 @@ Case-oriented spatial and temporal density scanning
 
 Licensed under the Academic Free License version 3.0
 
-This algorithm scans case datasets with temporal and spatial coordinates to identify potential clusters of infection. 
-It overcomes the MAUP problem caused by the zoning effect of space-oriented density scanning. 
+This algorithm scans case datasets with temporal and spatial coordinates to identify potential clusters of infection.
+It overcomes the MAUP problem caused by the zoning effect of space-oriented density scanning.
 With the same scan window size, the statistical result is unique.
 
 The algorithm flowchart is as follows: 
